@@ -1,0 +1,5 @@
+-Search for "PHP Intelephense" and install it.
+
+- run this command: php -S localhost:8000
+
+-http://localhost:8000/index.php
